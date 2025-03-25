@@ -4,7 +4,7 @@
 - [HTML](/Проекты%20по%20SQL/basic_sql.html)
 - [ipynb](/Проекты%20по%20SQL/basic_sql.ipynb)
 
-Проект Startup Investments:
+Проект по StackOverflow:
 - [HTML](/Проекты%20по%20SQL/advanced_sql.html)
 - [ipynb](/Проекты%20по%20SQL/advanced_sql.ipynb)
 
