@@ -1,12 +1,12 @@
 # Проекты по SQL
 
 Проект Startup Investments:
-- [HTML](/basic_sql.html)
-- [ipynb](/basic_sql.ipynb)
+- [HTML](/Проекты%20по%20SQL/basic_sql.html)
+- [ipynb](/Проекты%20по%20SQL/basic_sql.ipynb)
 
 Проект Startup Investments:
-- [HTML](/advanced_sql.html)
-- [ipynb](/advanced_sql.ipynb)
+- [HTML](/Проекты%20по%20SQL/advanced_sql.html)
+- [ipynb](/Проекты%20по%20SQL/advanced_sql.ipynb)
 
 
 ## Описание проектов
